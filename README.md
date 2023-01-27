@@ -4,11 +4,6 @@ Objective - To detect and remove malware from a computer system.
 Problem Statement - "Develop a Python-based antivirus program that is capable of detecting and removing common types of malware from a user's computer, while minimizing false positives and minimizing the impact on system performance."
 A simple antivirus coded in python capable of scanning selected files and deleting files that it detects as infected. This antivirus uses a large list of MD5, SHA1 and SHA256 malware hashes to determine infections.
 
-Gui - 
-![image](https://user-images.githubusercontent.com/93459418/215095950-f71acf41-214a-421a-bcea-6e13ab18747e.png)
-![image](https://user-images.githubusercontent.com/93459418/215095959-7d1c9569-ca2a-4795-acbc-21d5712eb8ce.png)
-![image](https://user-images.githubusercontent.com/93459418/215095967-1a1983b0-4f80-446e-ba3b-b0568881ecd7.png)
-
 Modules used - 
 1.The filename module in python is used to work with file and directory names. It provides functions to manipulate file paths and check their properties.
 
